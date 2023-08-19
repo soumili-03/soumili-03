@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/soumili-biswas-223a8324a/**
 
-- ⚡ Fun fact **Creative writing**
+- ⚡ Fun fact **I am into painting and writing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
