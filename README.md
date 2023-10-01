@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumili-03&label=Profile%20views&color=0e75b6&style=flat" alt="soumili-03" /> </p>
 
-- 🔭 I’m currently working on **VR development**
-
 - 🌱 I’m currently learning **C++, ML, advanced python**
 
 - 🤝 I’m looking for help with **Machine learning**
