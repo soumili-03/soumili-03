@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumili</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate developer and student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumili-03&label=Profile%20views&color=0e75b6&style=flat" alt="soumili-03" /> </p>
 
-- 🌱 I’m currently learning **C++, ML, advanced python**
+- 🌱 I’m currently learning **React, MonogoDB and JavaScript**
 
 - 🤝 I’m looking for help with **Machine learning**
 
