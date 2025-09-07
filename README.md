@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/soumili-03?tab=repositories](https://github.com/soumili-03?tab=repositories)
 
-- 💬 Ask me about **C++, CP**
+- 💬 Ask me about **C++, Springboot, Competitive programming**
 
 - 📫 How to reach me **https://www.linkedin.com/in/soumili-biswas-223a8324a/**
 
